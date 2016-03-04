@@ -1,18 +1,6 @@
 # Mindflex_EEG
-Modified Arduino sketch for Mindflex EEG data
+Modified Arduino sketch for Mindflex EEG 
 
-
-Thing Details
-Thing Files
-0
-Comments
-0
-Made
-0
-Collections
-0
-Remixes
-Summary
 
 This is based off the hack from the Frontier Nerds (http://www.frontiernerds.com/brain-hack). The Arduino sketch is a modified version of the original sketch. For our needs we only needed the Attention value. Their is a Neopixel that flashes red until a value above 0 comes through the serial port then will turn blue.
 
