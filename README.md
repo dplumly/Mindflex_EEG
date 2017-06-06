@@ -6,4 +6,13 @@ This is based off the hack from the Frontier Nerds (http://www.frontiernerds.com
 
 There are two versions of the box. One is small and uses the Arduino Pro Mini and the other is for the Arduino Uno to be used with serial.
 
+
+![Schematic](https://github.com/dplumly/Mindflex_EEG/blob/master/pix/mindflex6.jpg)
+
+![Schematic](https://github.com/dplumly/Mindflex_EEG/blob/master/pix/mindflex9.jpg)
+
 We made this to be used with a VR head set. Since you couldn't have the bulky Mindflex version on with an Oculus or Vive we made these versions. The enclosure sits on the desk and you just have two electrodes that go on your forehead and one behind the ear.
+
+![Schematic](https://github.com/dplumly/Mindflex_EEG/blob/master/pix/mindflex7.jpg)
+
+For more photos and info go to (http://www.donnieplumly.com/eeg)
